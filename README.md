@@ -105,7 +105,5 @@ This repository is part of my freelance engineering portfolio, demonstrating:
 
 ## 📬 Contact
 
-If you're hiring or looking for backend help:
-
 - **Email:** faraz.munavarhussain@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/faraz-munavar-hussain-bb164137
